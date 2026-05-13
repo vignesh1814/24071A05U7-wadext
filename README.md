@@ -15,7 +15,9 @@ Examination: Web Application Development Laboratory External Examination
 
 
 XML documement with incorrect schema .
+
 The book named Java Programming Fundamentals has year in wrong format .
+
 So an error is shown in the xml document at element year in the corresponding book element
 
 ![alt text](year.png)
@@ -24,7 +26,9 @@ So an error is shown in the xml document at element year in the corresponding bo
 
 
 XML documement with incorrect schema .
+
 The book named Java Programming Fundamentals has element price missing .
+
 So an error is shown in the xml document
 ![alt text](price.png)
 
@@ -32,7 +36,10 @@ So an error is shown in the xml document
 
 
 XML documement with incorrect schema .
+
 The book named Java Programming Fundamentals has attribute category missing .
+
 So an error is shown in the xml document
+
 
 ![alt text](category.png)
