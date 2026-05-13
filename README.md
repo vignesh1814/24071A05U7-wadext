@@ -13,6 +13,7 @@ Examination: Web Application Development Laboratory External Examination
 
 
 
+**YEAR**
 
 XML documement with incorrect schema .
 
@@ -24,6 +25,7 @@ So an error is shown in the xml document at element year in the corresponding bo
 
 
 
+**PRICE**
 
 XML documement with incorrect schema .
 
@@ -34,6 +36,7 @@ So an error is shown in the xml document
 
 
 
+**CATEGORY**
 
 XML documement with incorrect schema .
 
