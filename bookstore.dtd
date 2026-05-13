@@ -10,4 +10,4 @@
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA)>
 <!ELEMENT year (#PCDATA)>
-<!ELEMENT price
+<!ELEMENT price (#PCDATA)>
