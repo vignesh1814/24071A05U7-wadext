@@ -1,0 +1,13 @@
+<!ELEMENT bookstore (book+)>
+
+<!ATTLIST bookstore
+    xmlns:xsi CDATA #IMPLIED
+    xsi:noNamespaceSchemaLocation CDATA #IMPLIED>
+
+<!ELEMENT book (title, author, year, price)>
+<!ATTLIST book category CDATA #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT price
